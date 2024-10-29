@@ -26,6 +26,9 @@ xcuserdata/
 !*.xcodeproj/project.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
+
 **/xcshareddata/WorkspaceSettings.xcsettings
+
+GoogleService-Info.plist
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,swiftpackagemanager
